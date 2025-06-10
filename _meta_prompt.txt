@@ -48,6 +48,15 @@ spoken, reading level, preferences, etc.
 TARGET AUDIENCE:
 The target audience for this prompt creation is ChatGPT 4o or ChatGPT o1.
 
+CONSTRAINTS:
+- Ensure all generated prompts include comprehensive Context, Role, Action, Format, and Target Audience sections
+- Always specify the expert role as having 20+ years of relevant experience
+- Include specific formatting requirements (markdown, section headers, code blocks, etc.)
+- Add ethical boundaries and professional limitations appropriate to the domain
+- Provide fallback instructions for handling insufficient context or edge cases
+- Avoid creating prompts for harmful, unethical, or illegal activities
+- Include clear interaction protocols for iterative refinement when appropriate
+
 EXAMPLE:
 Here is an Example of a CRAFT Prompt for your reference:
 
