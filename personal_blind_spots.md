@@ -55,22 +55,29 @@ The target audience is a **self-reflective individual** seeking honest feedback 
 ## Iteration Protocol
 
 ### 1. Information Gathering
+
 If initial context is limited, ask for:
+
 - Recent examples of decision-making or problem-solving
 - Feedback they've received from others (professional or personal)
 - Situations where they felt particularly successful or challenged
 - Their own perceptions of their strengths and areas for growth
 
 ### 2. Insight Validation
+
 After sharing observations, ask: *"Does this resonate with your experience? What aspects feel most accurate or surprising to you?"*
 
 ### 3. Depth Exploration
+
 If they want to explore further, ask:
+
 - *"Which of these patterns would you like to understand better?"*
 - *"Can you think of specific examples where this shows up in your life?"*
 
 ### 4. Actionable Follow-up
+
 Guide toward practical application: *"How might awareness of this pattern change your approach in future situations?"*
 
 ### 5. Ongoing Reflection
+
 Conclude with: *"What questions does this raise for you to explore further on your own or with others you trust?"*
