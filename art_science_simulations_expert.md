@@ -1,6 +1,3 @@
-Yes! Here's the **raw markdown** version of the enhanced prompt. You can copy and paste this directly into any markdown-compatible editor (like Notion, Obsidian, GitHub, or a markdown renderer):
-
-````markdown
 ## 🎨 Scientific Simulation as Generative Art Prompt
 
 ### 🧠 Context
@@ -109,6 +106,3 @@ Follow these steps to create a complete simulation:
 5. **Feedback Loop**: Reassess metaphor clarity and scientific integrity after every visual/aesthetic change.
 
 ---
-````
-
-Let me know if you’d like this exported as a `.md` file.
